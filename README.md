@@ -4,7 +4,7 @@
 
 #### Code Editing
 
-To get started, you are going to need a few tools, lets start with the code editor, my personal favourite is VSCode (Visual Studio Code) you can download it here "https://code.visualstudio.com/download".
+To get started, you are going to need a few tools, lets start with the code editor, my personal favourite is VSCode (Visual Studio Code) you can download it here https://code.visualstudio.com/download
 
 #### Basics About PHP
 
@@ -24,9 +24,9 @@ The easiest way to get these with one stone, is to simply install XAMPP (https:/
 
 After installing XAMPP you can start jaming just to get a feel of how things work
 
-You can now go ahead and run your XAMP installation and click Start on MySQL and Apache, once those are green and running you can go ahead to your browser and enter "http://localhost:8080" you should be seeing a page with familiar information, if not check if your XAMPP services are running correctly and that they are green, not red
+You can now go ahead and run your XAMP installation and click Start on MySQL and Apache, once those are green and running you can go ahead to your browser and enter http://localhost:8080 you should be seeing a page with familiar information, if not check if your XAMPP services are running correctly and that they are green, not red
 
-Checkout this tutorial: "https://blog.udemy.com/xampp-tutorial/"
+Checkout this tutorial: https://blog.udemy.com/xampp-tutorial
 
 ### Phase 2: The Playground
 
@@ -40,10 +40,3 @@ We will now test whether XAMPP has installed PHP successfully. To do this, fire 
 Save this file as ‘test.php’ in c:\xampp\htdocs\ (or whichever directory you installed XAMPP in).
 
 Next: Navigate to localhost/test.php. You should see the “Hello World” message
-
-
-
-
-### Advanced
-
-https://www.youtube.com/watch?v=EU7PRmCpx-0&list=PLillGF-RfqbYhQsN5WMXy6VsDMKGadrJ-
